@@ -30,7 +30,7 @@ Our project is organized as follows:
 Feel free to explore these folders to understand the project's structure.
 
 ## Usage
-Explain how to use your project. Provide code examples and usage scenarios if applicable.
+
 
 ## Contributing
 We welcome contributions! If you'd like to contribute to our 9th-grade biology science fair project, please follow these steps:
